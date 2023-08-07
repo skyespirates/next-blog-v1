@@ -37,24 +37,6 @@ export default {
             },
           ],
         },
-        {
-          name: 'code',
-          type: 'code',
-          title: 'Code Block',
-          options: {
-            language: 'javascript',
-            languageAlternatives: [
-              {
-                title: 'Typescript',
-                value: 'typescript',
-              },
-              {
-                title: 'Javascript',
-                value: 'javascript',
-              },
-            ],
-          },
-        },
       ],
     },
   ],
